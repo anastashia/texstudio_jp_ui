@@ -38,7 +38,7 @@ TeXstudioのユーザーインターフェースを日本語化するための�
 
 #. lreleaseコマンドでtexstudio_ja.tsをtexstudio_ja.qmへ変換する
 
-Todo
-====
+その他
+======
 
 * Issueもしくはmilestoneへ上げること
