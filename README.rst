@@ -41,4 +41,4 @@ TeXstudioのユーザーインターフェースを日本語化するための�
 その他
 ======
 
-* Issueもしくはmilestoneへ上げること
+* なにかある場合はIssueもしくはmilestoneへ上げること
