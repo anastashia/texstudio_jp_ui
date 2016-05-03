@@ -748,12 +748,14 @@ TeXstudioですべてのコマンドのパスを/usr/texbin/から
 <context>
     <name>CodeSnippet_PlaceHolder</name>
     <message>
+        <location filename="additionaltranslations.cpp" line="100"/>
         <source>num</source>
-        <translation type="obsolete">num</translation>
+        <translation>num</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="101"/>
         <source>den</source>
-        <translation type="obsolete">den</translation>
+        <translation>den</translation>
     </message>
 </context>
 <context>
@@ -3275,12 +3277,14 @@ options again to only view the most common settings.</source>
         <translation type="obsolete">数式(&amp;M)</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="96"/>
         <source>Inline math mode $...$</source>
-        <translation type="obsolete">インライン数式 $...$</translation>
+        <translation>インライン数式 $...$</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="97"/>
         <source>Display math mode \[...\]</source>
-        <translation type="obsolete">ディスプレイ数式 \[...\]</translation>
+        <translation>ディスプレイ数式 \[...\]</translation>
     </message>
     <message>
         <source>Numbered equation \begin{equation}</source>
@@ -3295,92 +3299,193 @@ options again to only view the most common settings.</source>
         <translation type="obsolete">\begin{eqnarray}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="98"/>
         <source>Subscript - _{}</source>
-        <translation type="obsolete">下付き添字 - _{}</translation>
+        <translation>下付き添字 - _{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="99"/>
         <source>Superscript - ^{}</source>
-        <translation type="obsolete">上付き添字 - ^{}</translation>
+        <translation>上付き添字 - ^{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="102"/>
         <source>\begin{array}</source>
-        <translation type="obsolete">\begin{array}</translation>
+        <translation>\begin{array}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="103"/>
+        <source>Math Equations</source>
+        <translatorcomment>訳がこれで良いのか不明</translatorcomment>
+        <translation>数式類</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="104"/>
+        <source>env equation</source>
+        <translation>equation環境</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="105"/>
+        <source>env equation*</source>
+        <translation>equation*環境</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="106"/>
+        <source>env align (amsmath)</source>
+        <translation>align環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="107"/>
+        <source>env align* (amsmath)</source>
+        <translation>align*環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="108"/>
+        <source>env alignat (amsmath)</source>
+        <translation>alignat環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="109"/>
+        <source>env alignat* (amsmath)</source>
+        <translation>alignat*環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="110"/>
+        <source>env flalign (amsmath)</source>
+        <translation>flalign環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="111"/>
+        <source>env flalign* (amsmath)</source>
+        <translation>flalign*環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="112"/>
+        <source>env gather (amsmath)</source>
+        <translation>gather環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="113"/>
+        <source>env gather* (amsmath)</source>
+        <translation>gather*環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="114"/>
+        <source>env multiline (amsmath)</source>
+        <translation>multiline環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="115"/>
+        <source>env multiline* (amsmath)</source>
+        <translation>multiline*環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="116"/>
+        <source>env cases (amsmath)</source>
+        <translation>cases環境 (amsmath)</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="117"/>
         <source>Math &amp;Functions</source>
-        <translation type="obsolete">数学関数(&amp;F)</translation>
+        <translation>数学関数(&amp;F)</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="118"/>
         <source>Math Font St&amp;yles</source>
-        <translation type="obsolete">数式の書体(&amp;y)</translation>
+        <translation>数式の書体(&amp;y)</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="119"/>
         <source>Roman - \mathrm{}</source>
-        <translation type="obsolete">ローマン体 - \mathrm{}</translation>
+        <translation>ローマン体 - \mathrm{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="120"/>
         <source>Italic - \mathit{}</source>
-        <translation type="obsolete">イタリック体 - \mathit{}</translation>
+        <translation>イタリック体 - \mathit{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="121"/>
         <source>Bold - \mathbf{}</source>
-        <translation type="obsolete">ボールド体 - \mathbf{}</translation>
+        <translation>ボールド体 - \mathbf{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="122"/>
         <source>Sans Serif - \mathsf{}</source>
-        <translation type="obsolete">サンセリフ体 - \mathsf{}</translation>
+        <translation>サンセリフ体 - \mathsf{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="123"/>
         <source>Typewriter - \mathtt{}</source>
-        <translation type="obsolete">タイプライター体 - \mathtt{}</translation>
+        <translation>タイプライター体 - \mathtt{}</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="124"/>
         <source>Calligraphic - \mathcal{}</source>
-        <translation type="obsolete">カリグラフ体 - \mathcal{}</translation>
+        <translation>カリグラフ体 - \mathcal{}</translation>
     </message>
     <message>
-        <source>Blackboard Bold - \mathbb{}</source>
-        <translation type="obsolete">ブラックボードボールド体 - \mathbb{}</translation>
+        <location filename="additionaltranslations.cpp" line="125"/>
+        <source>Blackboard Bold - \mathbb{} (amssymb)</source>
+        <oldsource>Blackboard Bold - \mathbb{}</oldsource>
+        <translation>ブラックボードボールド体 - \mathbb{} (amssymb)</translation>
     </message>
     <message>
-        <source>Fraktur - \mathfrak{}</source>
-        <translation type="obsolete">フラクチャー体 - \mathfrak{}</translation>
+        <location filename="additionaltranslations.cpp" line="126"/>
+        <source>Fraktur - \mathfrak{} (amssymb)</source>
+        <oldsource>Fraktur - \mathfrak{}</oldsource>
+        <translation>フラクチャー体 - \mathfrak{} (amssymb)</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="127"/>
+        <source>Math Stacking symbols</source>
+        <translatorcomment>訳がこれで良いのか不明</translatorcomment>
+        <translation>数学の重ね記号</translation>
+    </message>
+    <message>
+        <location filename="additionaltranslations.cpp" line="128"/>
         <source>Math &amp;Accents</source>
-        <translation type="obsolete">数式のアクセント(&amp;A)</translation>
+        <translation>数式のアクセント(&amp;A)</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="129"/>
         <source>Math S&amp;paces</source>
-        <translation type="obsolete">数式のスペース(&amp;p)</translation>
+        <translation>数式のスペース(&amp;p)</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="130"/>
         <source>Negative - \!</source>
-        <translation type="obsolete">負の空白 - \!</translation>
+        <translation>負の空白 - \!</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="131"/>
         <source>Thin - \,</source>
-        <translation type="obsolete">小さな空白 - \,</translation>
+        <translation>小さな空白 - \,</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="132"/>
         <source>Medium - \:</source>
-        <translation type="obsolete">中くらいの空白 - \:</translation>
+        <translation>中くらいの空白 - \:</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="133"/>
         <source>Thick - \;</source>
-        <translation type="obsolete">大きな空白 - \;</translation>
+        <translation>大きな空白 - \;</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="134"/>
         <source>Interword - \ </source>
-        <translation type="obsolete">単語間空白 - \ </translation>
+        <translation>単語間空白 - \ </translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="135"/>
         <source>One quad - \quad</source>
-        <translation type="obsolete">クワッド一つ分の空白 - \quad</translation>
+        <translation>クワッド一つ分の空白 - \quad</translation>
     </message>
     <message>
+        <location filename="additionaltranslations.cpp" line="136"/>
         <source>Two quads - \qquad</source>
-        <translation type="obsolete">クワッド二つ分の空白 - \qquad</translation>
+        <translation>クワッド二つ分の空白 - \qquad</translation>
     </message>
     <message>
         <location filename="configmanager.cpp" line="942"/>
@@ -4608,32 +4713,32 @@ Do you want to overwrite it?</source>
 <context>
     <name>OutputViewWidget</name>
     <message>
-        <location filename="toolwidgets.cpp" line="149"/>
-        <location filename="toolwidgets.cpp" line="235"/>
+        <location filename="toolwidgets.cpp" line="150"/>
+        <location filename="toolwidgets.cpp" line="236"/>
         <source>Messages / Log File</source>
         <translation>メッセージ / ログファイル</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="160"/>
-        <location filename="toolwidgets.cpp" line="236"/>
+        <location filename="toolwidgets.cpp" line="161"/>
+        <location filename="toolwidgets.cpp" line="237"/>
         <source>Messages</source>
         <translation>メッセージ</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="165"/>
-        <location filename="toolwidgets.cpp" line="237"/>
+        <location filename="toolwidgets.cpp" line="166"/>
+        <location filename="toolwidgets.cpp" line="238"/>
         <source>Log</source>
         <translation>ログ</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="171"/>
-        <location filename="toolwidgets.cpp" line="238"/>
+        <location filename="toolwidgets.cpp" line="172"/>
+        <location filename="toolwidgets.cpp" line="239"/>
         <source>Preview</source>
         <translation>プレビュー</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="178"/>
-        <location filename="toolwidgets.cpp" line="239"/>
+        <location filename="toolwidgets.cpp" line="179"/>
+        <location filename="toolwidgets.cpp" line="240"/>
         <source>Search Results</source>
         <translation>検索結果</translation>
     </message>
@@ -4740,37 +4845,37 @@ Do you want to overwrite it?</source>
 <context>
     <name>PDFBaseSearchDock</name>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="417"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="416"/>
         <source>Search</source>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="483"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="482"/>
         <source>Enables case sensitive search.</source>
         <translation>大文字と小文字を区別して検索する。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="494"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="493"/>
         <source>Text or pattern to search for</source>
         <translation>検索するテキストまたはパターン</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="495"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="494"/>
         <source>Find next occurence</source>
         <translation>次を検索</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="496"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="495"/>
         <source>Find previous occurence</source>
         <translation>前を検索</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="498"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="497"/>
         <source> Find :</source>
         <translation> 検索:</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="500"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="499"/>
         <source>Case</source>
         <translation>大文字・小文字</translation>
     </message>
@@ -4778,27 +4883,27 @@ Do you want to overwrite it?</source>
 <context>
     <name>PDFClockDock</name>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="894"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="893"/>
         <source>Set interval</source>
         <translation>間隔を設定</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="897"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="896"/>
         <source>Restart</source>
         <translation>再スタート</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="914"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="913"/>
         <source>Clock</source>
         <translation>時計</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="934"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="933"/>
         <source>New clock interval (in minutes)</source>
         <translation>新規のクロック間隔（分）</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="960"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="959"/>
         <source>%1min</source>
         <translation>%1分</translation>
     </message>
@@ -5361,193 +5466,193 @@ Do you want to overwrite it?</source>
         <translation>分割 &amp;&amp; 結合</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2321"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2320"/>
         <source>&amp;Help</source>
         <translation>ヘルプ(&amp;H)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2322"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2321"/>
         <source>&amp;File</source>
         <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2323"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2322"/>
         <source>&amp;Configure</source>
         <translation>設定(&amp;C)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2324"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2323"/>
         <source>&amp;View</source>
         <translation>表示(&amp;V)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2325"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2324"/>
         <source>Grid</source>
         <translation>グリッド</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2326"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2325"/>
         <source>&amp;Window</source>
         <translation>ウィンドウ(&amp;W)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2327"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2326"/>
         <source>&amp;Edit</source>
         <translation>編集(&amp;E)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2354"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2353"/>
         <source>Show</source>
         <translation>表示</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2411"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2410"/>
         <source>Windowed Viewer</source>
         <translation>ウィンドウ化ビューワー</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2414"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2413"/>
         <source>Embedded Viewer</source>
         <translation>埋め込みビューワー</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2471"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2470"/>
         <source>of</source>
         <comment>separator for page number: 1 of 3</comment>
         <translation>/</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2495"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2494"/>
         <source>Scale</source>
         <translation>スケール</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2513"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2512"/>
         <source>Zoom Out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2523"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2522"/>
         <source>Zoom</source>
         <translation>拡大縮小</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2532"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2531"/>
         <source>Zoom In</source>
         <translation>拡大</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2556"/>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2559"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2555"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2558"/>
         <source>Annotations</source>
         <translation>注釈</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2720"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2719"/>
         <source>Page Down</source>
         <translation>次のページへ移動</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2724"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2723"/>
         <source>Page Up</source>
         <translation>前のページへ移動</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2901"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2900"/>
         <source>Retry</source>
         <translation>再試行</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2904"/>
-        <location filename="pdfviewer/PDFDocument.cpp" line="4058"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2903"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="4057"/>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2907"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2906"/>
         <source>%1
 does not look like a valid PDF document. Either the file is corrupt or it is in the process of creation. Retrying every two seconds.</source>
         <translation>%1
 は有効なPDF文書ではなさそうです。ファイルが破損しているか、作成途中であるかのいずれかです。2秒毎に再試行します。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2921"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2920"/>
         <source>Failed to find file &quot;%1&quot;; perhaps it has been deleted.</source>
         <translation>ファイル&quot;%1&quot;が見つかりません; 消去されていると思われます。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2924"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2923"/>
         <source>Failed to load file &quot;%1&quot;; perhaps it is not a valid PDF document.</source>
         <translation>ファイル&quot;%1&quot;の読み込みに失敗しました; 有効なPDFドキュメントではないと思われます。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2927"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2926"/>
         <source>Failed to load file &quot;%1&quot; due to a bad alloc; perhaps it is not a valid PDF document.</source>
         <translation>bad allocのためファイル&quot;%1&quot;の読み込みに失敗しました; 有効なPDFドキュメントではないと思われます。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2930"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2929"/>
         <source>Failed to load file &quot;%1&quot; due to an exception; perhaps it is not a valid PDF document.</source>
         <translation>例外が発生してファイル&quot;%1&quot;の読み込みに失敗しました; 有効なPDFドキュメントではないと思われます。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2933"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2932"/>
         <source>PDF file &quot;%1&quot; is locked.</source>
         <translation>PDFファイル&quot;%1&quot;はロックされています。</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2935"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2934"/>
         <source>PDF password</source>
         <translation>PDFパスワード</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2935"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2934"/>
         <source>PDF file &quot;%1&quot; is locked.
 You can now enter the password:</source>
         <translation>PDFファイル&quot;%1&quot;はロックされています。パスワードを入力してください：</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3252"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3251"/>
         <source>Searching for</source>
         <translation>次を検索</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3376"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3375"/>
         <source>No SyncTeX data available</source>
         <translation>利用できるSyncTeXデータがありません</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3379"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3378"/>
         <source>SyncTeX: &quot;%1&quot;</source>
         <translation>SyncTeX: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3509"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3508"/>
         <source>%1[*] - %2</source>
         <translation>%1[*] - %2</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3587"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3586"/>
         <source>Page %1 of %2</source>
         <translation>%2のうちの%1ページ目</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3588"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3587"/>
         <source>Pages %1 to %2 of %3</source>
         <translation>%3のうちの%1から%2ページ</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3613"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3612"/>
         <source>Open PDF</source>
         <translation>PDFを開く</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="3893"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="3892"/>
         <source>Print</source>
         <translation>印刷</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="4059"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="4058"/>
         <source>Close Message</source>
         <translation>メッセージを閉じる</translation>
     </message>
@@ -5555,42 +5660,42 @@ You can now enter the password:</source>
 <context>
     <name>PDFFontsDock</name>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="365"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="364"/>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="365"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="364"/>
         <source>Type</source>
         <translation>タイプ</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="365"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="364"/>
         <source>Subset</source>
         <translation>サブセット</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="365"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="364"/>
         <source>File</source>
         <translation>ファイル</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="382"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="381"/>
         <source>[none]</source>
         <translation>[none]</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="387"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="386"/>
         <source>yes</source>
         <translation>はい</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="387"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="386"/>
         <source>no</source>
         <translation>いいえ</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="388"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="387"/>
         <source>[embedded]</source>
         <translation>[embedded]</translation>
     </message>
@@ -5611,42 +5716,42 @@ You can now enter the password:</source>
 <context>
     <name>PDFMovie</name>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="372"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="371"/>
         <source>File %1 does not exists</source>
         <translation>ファイル%1は存在しません</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="378"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="377"/>
         <source>&amp;Play</source>
         <translation>再生(&amp;P)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="379"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="378"/>
         <source>P&amp;ause</source>
         <translation>一時停止(&amp;a)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="380"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="379"/>
         <source>&amp;Stop</source>
         <translation>停止(&amp;S)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="382"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="381"/>
         <source>S&amp;eek</source>
         <translation>シーク(&amp;e)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="383"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="382"/>
         <source>Set &amp;volume</source>
         <translation>音量を設定(&amp;v)</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="426"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="425"/>
         <source>Volume:</source>
         <translation>音量:</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="435"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="434"/>
         <source>Time:</source>
         <translation>時間:</translation>
     </message>
@@ -5654,7 +5759,7 @@ You can now enter the password:</source>
 <context>
     <name>PDFOutlineDock</name>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="160"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="159"/>
         <source>No TOC</source>
         <translation>目次がありません</translation>
     </message>
@@ -5675,7 +5780,7 @@ You can now enter the password:</source>
 <context>
     <name>PDFSearchDock</name>
     <message>
-        <location filename="pdfviewer/PDFDocks.cpp" line="600"/>
+        <location filename="pdfviewer/PDFDocks.cpp" line="599"/>
         <source>Sync</source>
         <translation>同期</translation>
     </message>
@@ -5749,62 +5854,62 @@ You can now enter the password:</source>
 <context>
     <name>PDFWidget</name>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="522"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="521"/>
         <source>Zoom In</source>
         <translation>拡大</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="524"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="523"/>
         <source>Zoom Out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="527"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="526"/>
         <source>Actual Size</source>
         <translation>実際のサイズ</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="530"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="529"/>
         <source>Fit to Width</source>
         <translation>幅に合わせる</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="533"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="532"/>
         <source>Fit to Window</source>
         <translation>ウィンドウに合わせる</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="1013"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="1012"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="1013"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="1012"/>
         <source>Could not open link:</source>
         <translation>リンクを開くことができません:</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="1124"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="1123"/>
         <source>Go to Source</source>
         <translation>ソースへ移動</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="1756"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="1755"/>
         <source>Go to Page</source>
         <translation>ページへ移動</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="1757"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="1756"/>
         <source>Page number:</source>
         <translation>ページ数:</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2087"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2086"/>
         <source>Calculating text width</source>
         <translation>テキスト幅の計算</translation>
     </message>
     <message>
-        <location filename="pdfviewer/PDFDocument.cpp" line="2087"/>
+        <location filename="pdfviewer/PDFDocument.cpp" line="2086"/>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
@@ -5812,27 +5917,27 @@ You can now enter the password:</source>
 <context>
     <name>PreviewWidget</name>
     <message>
-        <location filename="toolwidgets.cpp" line="124"/>
+        <location filename="toolwidgets.cpp" line="125"/>
         <source>Zoom In</source>
         <translation>拡大</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="125"/>
+        <location filename="toolwidgets.cpp" line="126"/>
         <source>Zoom Out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="126"/>
+        <location filename="toolwidgets.cpp" line="127"/>
         <source>Reset Zoom</source>
         <translation>拡大縮小をリセット</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="127"/>
+        <location filename="toolwidgets.cpp" line="128"/>
         <source>Fit</source>
         <translation>表示領域に合わせる</translation>
     </message>
     <message>
-        <location filename="toolwidgets.cpp" line="131"/>
+        <location filename="toolwidgets.cpp" line="132"/>
         <source>Center</source>
         <translation>中揃え</translation>
     </message>
@@ -6574,404 +6679,404 @@ Do you wish to keep up to date by reloading the file?
 <context>
     <name>QFormatConfig</name>
     <message>
-        <location filename="additionaltranslations.cpp" line="96"/>
+        <location filename="additionaltranslations.cpp" line="137"/>
         <source>background</source>
         <translation>背景</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="97"/>
+        <location filename="additionaltranslations.cpp" line="138"/>
         <source>line:error</source>
         <translation>行: エラー</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="98"/>
+        <location filename="additionaltranslations.cpp" line="139"/>
         <source>line:warning</source>
         <translation>行: 警告</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="99"/>
+        <location filename="additionaltranslations.cpp" line="140"/>
         <source>line:badbox</source>
         <translation>行: 悪いボックス</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="100"/>
+        <location filename="additionaltranslations.cpp" line="141"/>
         <source>line:bookmark</source>
         <translation>行: ブックマーク</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="101"/>
+        <location filename="additionaltranslations.cpp" line="142"/>
         <source>line:bookmark0</source>
         <translation>行: ブックマーク0</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="102"/>
+        <location filename="additionaltranslations.cpp" line="143"/>
         <source>line:bookmark1</source>
         <translation>行: ブックマーク1</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="103"/>
+        <location filename="additionaltranslations.cpp" line="144"/>
         <source>line:bookmark2</source>
         <translation>行: ブックマーク2</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="104"/>
+        <location filename="additionaltranslations.cpp" line="145"/>
         <source>line:bookmark3</source>
         <translation>行: ブックマーク3</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="105"/>
+        <location filename="additionaltranslations.cpp" line="146"/>
         <source>line:bookmark4</source>
         <translation>行: ブックマーク4</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="106"/>
+        <location filename="additionaltranslations.cpp" line="147"/>
         <source>line:bookmark5</source>
         <translation>行: ブックマーク5</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="107"/>
+        <location filename="additionaltranslations.cpp" line="148"/>
         <source>line:bookmark6</source>
         <translation>行: ブックマーク6</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="108"/>
+        <location filename="additionaltranslations.cpp" line="149"/>
         <source>line:bookmark7</source>
         <translation>行: ブックマーク7</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="109"/>
+        <location filename="additionaltranslations.cpp" line="150"/>
         <source>line:bookmark8</source>
         <translation>行: ブックマーク8</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="110"/>
+        <location filename="additionaltranslations.cpp" line="151"/>
         <source>line:bookmark9</source>
         <translation>行: ブックマーク9</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="111"/>
+        <location filename="additionaltranslations.cpp" line="152"/>
         <source>magicComment</source>
         <translation>magicコメント</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="112"/>
+        <location filename="additionaltranslations.cpp" line="153"/>
         <source>commentTodo</source>
         <translation>Todoコメント</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="113"/>
+        <location filename="additionaltranslations.cpp" line="154"/>
         <source>comment</source>
         <translation>コメント</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="114"/>
+        <location filename="additionaltranslations.cpp" line="155"/>
         <source>keyword</source>
         <translation>キーワード</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="115"/>
+        <location filename="additionaltranslations.cpp" line="156"/>
         <source>extra-keyword</source>
         <translation>特別なキーワード</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="116"/>
+        <location filename="additionaltranslations.cpp" line="157"/>
         <source>math-keyword</source>
         <translation>数学キーワード</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="117"/>
+        <location filename="additionaltranslations.cpp" line="158"/>
         <source>link</source>
         <translation>リンク</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="118"/>
+        <location filename="additionaltranslations.cpp" line="159"/>
         <source>align-ampersand</source>
         <translation>行揃えの＆</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="119"/>
+        <location filename="additionaltranslations.cpp" line="160"/>
         <source>verbatim</source>
         <translation>verbatim</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="120"/>
+        <location filename="additionaltranslations.cpp" line="161"/>
         <source>sweave-block</source>
         <translation>sweaveブロック</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="121"/>
+        <location filename="additionaltranslations.cpp" line="162"/>
         <source>sweave-delimiter</source>
         <translation>sweave区切り記号</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="122"/>
+        <location filename="additionaltranslations.cpp" line="163"/>
         <source>pweave-block</source>
         <translation>pweaveブロック</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="123"/>
+        <location filename="additionaltranslations.cpp" line="164"/>
         <source>pweave-delimiter</source>
         <translation>pweave区切り記号</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="124"/>
+        <location filename="additionaltranslations.cpp" line="165"/>
         <source>picture</source>
         <translation>図画</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="125"/>
+        <location filename="additionaltranslations.cpp" line="166"/>
         <source>braceMatch</source>
         <translation>括弧の一致</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="126"/>
+        <location filename="additionaltranslations.cpp" line="167"/>
         <source>braceMismatch</source>
         <translation>括弧の不一致</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="127"/>
+        <location filename="additionaltranslations.cpp" line="168"/>
         <source>search</source>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="128"/>
+        <location filename="additionaltranslations.cpp" line="169"/>
         <source>numbers</source>
         <translation>数字</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="129"/>
+        <location filename="additionaltranslations.cpp" line="170"/>
         <source>math-delimiter</source>
         <translation>数式の区切り記号</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="130"/>
+        <location filename="additionaltranslations.cpp" line="171"/>
         <source>text</source>
         <translation>テキスト</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="131"/>
+        <location filename="additionaltranslations.cpp" line="172"/>
         <source>escapeseq</source>
         <translation>エスケープ文字列</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="132"/>
+        <location filename="additionaltranslations.cpp" line="173"/>
         <source>spellingMistake</source>
         <translation>スペル間違い</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="133"/>
+        <location filename="additionaltranslations.cpp" line="174"/>
         <source>wordRepetition</source>
         <translation>単語の繰り返し</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="134"/>
+        <location filename="additionaltranslations.cpp" line="175"/>
         <source>wordRepetitionLongRange</source>
         <translation>広範囲の単語の繰り返し</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="135"/>
+        <location filename="additionaltranslations.cpp" line="176"/>
         <source>badWord</source>
         <translation>良くない単語</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="136"/>
+        <location filename="additionaltranslations.cpp" line="177"/>
         <source>grammarMistake</source>
         <translation>文法上の間違い</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="137"/>
+        <location filename="additionaltranslations.cpp" line="178"/>
         <source>grammarMistakeSpecial1</source>
         <translation>文法上の間違い（スペシャル1）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="138"/>
+        <location filename="additionaltranslations.cpp" line="179"/>
         <source>grammarMistakeSpecial2</source>
         <translation>文法上の間違い（スペシャル2）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="139"/>
+        <location filename="additionaltranslations.cpp" line="180"/>
         <source>grammarMistakeSpecial3</source>
         <translation>文法上の間違い（スペシャル3）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="140"/>
+        <location filename="additionaltranslations.cpp" line="181"/>
         <source>grammarMistakeSpecial4</source>
         <translation>文法上の間違い（スペシャル4）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="141"/>
+        <location filename="additionaltranslations.cpp" line="182"/>
         <source>latexSyntaxMistake</source>
         <translation>LaTeX構文の間違い</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="142"/>
+        <location filename="additionaltranslations.cpp" line="183"/>
         <source>temporaryCodeCompletion</source>
         <translation>一時的なコード補完</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="143"/>
+        <location filename="additionaltranslations.cpp" line="184"/>
         <source>environment</source>
         <translation>環境</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="144"/>
+        <location filename="additionaltranslations.cpp" line="185"/>
         <source>referencePresent</source>
         <translation>参照の存在</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="145"/>
+        <location filename="additionaltranslations.cpp" line="186"/>
         <source>referenceMissing</source>
         <translation>参照の欠損</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="146"/>
+        <location filename="additionaltranslations.cpp" line="187"/>
         <source>referenceMultiple</source>
         <translation>参照の重複</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="147"/>
+        <location filename="additionaltranslations.cpp" line="188"/>
         <source>citationPresent</source>
         <translation>引用の存在</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="148"/>
+        <location filename="additionaltranslations.cpp" line="189"/>
         <source>citationMissing</source>
         <translation>引用の欠損</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="149"/>
+        <location filename="additionaltranslations.cpp" line="190"/>
         <source>packagePresent</source>
         <translation>パッケージの存在</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="150"/>
+        <location filename="additionaltranslations.cpp" line="191"/>
         <source>packageMissing</source>
         <translation>パッケージの欠如</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="151"/>
+        <location filename="additionaltranslations.cpp" line="192"/>
         <source>structure</source>
         <translation>文書の構造</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="152"/>
+        <location filename="additionaltranslations.cpp" line="193"/>
         <source>current</source>
         <translation>現在の行</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="153"/>
+        <location filename="additionaltranslations.cpp" line="194"/>
         <source>selection</source>
         <translation>選択</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="154"/>
+        <location filename="additionaltranslations.cpp" line="195"/>
         <source>replacement</source>
         <translation>置換</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="155"/>
+        <location filename="additionaltranslations.cpp" line="196"/>
         <source>diffDelete</source>
         <translation>差分（除去）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="156"/>
+        <location filename="additionaltranslations.cpp" line="197"/>
         <source>diffAdd</source>
         <translation>差分（追加）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="157"/>
+        <location filename="additionaltranslations.cpp" line="198"/>
         <source>diffReplace</source>
         <translation>差分（置換）</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="158"/>
+        <location filename="additionaltranslations.cpp" line="199"/>
         <source>previewSelection</source>
         <translatorcomment>訳がこれで良いのか不明</translatorcomment>
         <translation>プレビュー選択</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="159"/>
+        <location filename="additionaltranslations.cpp" line="200"/>
         <source>txs-test</source>
         <translation>txsのテスト</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="160"/>
+        <location filename="additionaltranslations.cpp" line="201"/>
         <source>txs-test-summary</source>
         <translatorcomment>訳がこれで良いのか不明</translatorcomment>
         <translation>txsのテストの要約</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="161"/>
+        <location filename="additionaltranslations.cpp" line="202"/>
         <source>txs-test-pass</source>
         <translation>txsのテストの通過</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="162"/>
+        <location filename="additionaltranslations.cpp" line="203"/>
         <source>txs-test-fail</source>
         <translation>txsのテストの失敗</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="163"/>
+        <location filename="additionaltranslations.cpp" line="204"/>
         <source>txs-test-warn</source>
         <translation>txsのテストの警告</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="164"/>
+        <location filename="additionaltranslations.cpp" line="205"/>
         <source>txs-test-qdebug</source>
         <translation>txsのテストのデバッグ</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="165"/>
+        <location filename="additionaltranslations.cpp" line="206"/>
         <source>dtx:guard</source>
         <translation>dtx: 保護</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="166"/>
+        <location filename="additionaltranslations.cpp" line="207"/>
         <source>dtx:macro</source>
         <translation>dtx: マクロ</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="167"/>
+        <location filename="additionaltranslations.cpp" line="208"/>
         <source>dtx:verbatim</source>
         <translation>dtx: verbatim</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="168"/>
+        <location filename="additionaltranslations.cpp" line="209"/>
         <source>dtx:specialchar</source>
         <translation>dtx: 特殊文字</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="169"/>
+        <location filename="additionaltranslations.cpp" line="210"/>
         <source>dtx:commands</source>
         <translation>dtx:コマンド</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="170"/>
+        <location filename="additionaltranslations.cpp" line="211"/>
         <source>lua:keyword</source>
         <translation>lua:キーワード</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="171"/>
+        <location filename="additionaltranslations.cpp" line="212"/>
         <source>lua:comment</source>
         <translation>lua:コメント</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="172"/>
+        <location filename="additionaltranslations.cpp" line="213"/>
         <source>asymptote:block</source>
         <translation>asymptote:ブロック</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="174"/>
+        <location filename="additionaltranslations.cpp" line="215"/>
         <source>asymptote:type</source>
         <translation>asymptote:タイプ</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="175"/>
+        <location filename="additionaltranslations.cpp" line="216"/>
         <source>asymptote:numbers</source>
         <translation>asymptote:数字</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="173"/>
+        <location filename="additionaltranslations.cpp" line="214"/>
         <source>asymptote:keyword</source>
         <translation>asymptote:キーワード</translation>
     </message>
@@ -6980,52 +7085,52 @@ Do you wish to keep up to date by reloading the file?
         <translation type="obsolete">asymptote:number</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="176"/>
+        <location filename="additionaltranslations.cpp" line="217"/>
         <source>asymptote:string</source>
         <translation>asymptote:文字列</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="177"/>
+        <location filename="additionaltranslations.cpp" line="218"/>
         <source>asymptote:comment</source>
         <translation>asymptote:コメント</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="178"/>
+        <location filename="additionaltranslations.cpp" line="219"/>
         <source>qtscript:comment</source>
         <translation>qtscript:コメント</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="179"/>
+        <location filename="additionaltranslations.cpp" line="220"/>
         <source>qtscript:string</source>
         <translation>qtscript:文字列</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="180"/>
+        <location filename="additionaltranslations.cpp" line="221"/>
         <source>qtscript:number</source>
         <translation>qtscript:数字</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="181"/>
+        <location filename="additionaltranslations.cpp" line="222"/>
         <source>qtscript:keyword</source>
         <translation>qtscript:キーワード</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="182"/>
+        <location filename="additionaltranslations.cpp" line="223"/>
         <source>qtscript:txs-variable</source>
         <translation>qtscript:txsの変数</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="183"/>
+        <location filename="additionaltranslations.cpp" line="224"/>
         <source>qtscript:txs-function</source>
         <translation>qtscript:txsの関数</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="184"/>
+        <location filename="additionaltranslations.cpp" line="225"/>
         <source>preedit</source>
         <translation>事前編集</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="185"/>
+        <location filename="additionaltranslations.cpp" line="226"/>
         <source>normal</source>
         <translation>標準</translation>
     </message>
@@ -8640,131 +8745,131 @@ failed.</source>
 <context>
     <name>Texstudio</name>
     <message>
-        <location filename="additionaltranslations.cpp" line="186"/>
+        <location filename="additionaltranslations.cpp" line="227"/>
         <source>Custom</source>
         <translation>カスタマイズ</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="187"/>
+        <location filename="additionaltranslations.cpp" line="228"/>
         <source>File</source>
         <translation>ファイル</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="188"/>
+        <location filename="additionaltranslations.cpp" line="229"/>
         <source>Edit</source>
         <translation>編集</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="189"/>
+        <location filename="additionaltranslations.cpp" line="230"/>
         <source>Tools</source>
         <translation>ツール</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="190"/>
+        <location filename="additionaltranslations.cpp" line="231"/>
         <source>Math</source>
         <translation>数式</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="191"/>
+        <location filename="additionaltranslations.cpp" line="232"/>
         <source>Format</source>
         <translation>書式</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="192"/>
+        <location filename="additionaltranslations.cpp" line="233"/>
         <source>Table</source>
         <translation>表</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="193"/>
+        <location filename="additionaltranslations.cpp" line="234"/>
         <source>Diff</source>
         <translation>差分</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="194"/>
+        <location filename="additionaltranslations.cpp" line="235"/>
         <location filename="texstudio.cpp" line="243"/>
         <source>Central</source>
         <translation>中央部</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="195"/>
+        <location filename="additionaltranslations.cpp" line="236"/>
         <source>Asymptote</source>
         <comment>Format name of language definition </comment>
         <translation>Asymptote</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="196"/>
+        <location filename="additionaltranslations.cpp" line="237"/>
         <source>BibTeX</source>
         <comment>Format name of language definition </comment>
         <translation>BibTeX</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="197"/>
+        <location filename="additionaltranslations.cpp" line="238"/>
         <source>Binary</source>
         <comment>Format name of language definition </comment>
         <translation>バイナリ</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="198"/>
+        <location filename="additionaltranslations.cpp" line="239"/>
         <source>TeX dtx file</source>
         <comment>Format name of language definition </comment>
         <translation>TeX dtxファイル</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="199"/>
+        <location filename="additionaltranslations.cpp" line="240"/>
         <source>Homespring</source>
         <comment>Format name of language definition </comment>
         <translation>Homespring</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="200"/>
+        <location filename="additionaltranslations.cpp" line="241"/>
         <source>Lua</source>
         <comment>Format name of language definition </comment>
         <translation>Lua</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="201"/>
+        <location filename="additionaltranslations.cpp" line="242"/>
         <source>Pweave</source>
         <comment>Format name of language definition </comment>
         <translation>Pweave</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="202"/>
+        <location filename="additionaltranslations.cpp" line="243"/>
         <source>QtScript</source>
         <comment>Format name of language definition </comment>
         <translation>Qtスクリプト</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="203"/>
+        <location filename="additionaltranslations.cpp" line="244"/>
         <source>Sweave</source>
         <comment>Format name of language definition </comment>
         <translation>Sweave</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="204"/>
+        <location filename="additionaltranslations.cpp" line="245"/>
         <source>(La)TeX</source>
         <comment>Format name of language definition </comment>
         <translation>(La)TeX</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="205"/>
+        <location filename="additionaltranslations.cpp" line="246"/>
         <source>(La)TeX Macro</source>
         <comment>Format name of language definition </comment>
         <translation>(La)TeXマクロ</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="206"/>
+        <location filename="additionaltranslations.cpp" line="247"/>
         <source>TXS Test Results</source>
         <comment>Format name of language definition </comment>
         <translation>TXSテストの結果</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="207"/>
+        <location filename="additionaltranslations.cpp" line="248"/>
         <source>Plain text</source>
         <comment>Format name of language definition </comment>
         <translation>プレーンテキスト</translation>
     </message>
     <message>
-        <location filename="additionaltranslations.cpp" line="208"/>
+        <location filename="additionaltranslations.cpp" line="249"/>
         <source>XML</source>
         <comment>Format name of language definition </comment>
         <translation>XML</translation>

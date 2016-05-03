@@ -27,6 +27,11 @@ TeXstudioのユーザーインターフェースを日本語化するための�
 翻訳ファイルの更新方法
 ======================
 
+基本的に `TransifexのTeXstudioプロジェクト`_ から翻訳を更新するようにしてください。
+こちらの方法以外で更新した場合、公式の翻訳には反映されませんので注意してください。
+
+.. _TransifexのTeXstudioプロジェクト: https://www.transifex.com/texstudio/texstudio/
+
 翻訳ファイルを独自に更新したい場合は、次の作業を行なってください
 （内容は `TeXstudio Wikiのtranslation`_ に書かれていることとほぼ同じ）。
 
