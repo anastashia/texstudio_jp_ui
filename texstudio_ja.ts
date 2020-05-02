@@ -619,8 +619,7 @@ TeXstudioですべてのコマンドのパスを/usr/texbin/から
 Please change your configuration and define command lists only at &apos;Options -&gt; Configure TeXstudio -&gt; Build&apos; not at &apos;Options -&gt; Configure TeXstudio -&gt; Commands&apos;.</source>
         <translation>コマンド%1は簡潔なことが望まれます。しかし、現在%2個のコマンドを含むコマンドチェーンとして定義されています。これは仕様を逸脱しており、想定外の副作用につながりかねません。
 
-設定を変更して、「オプション-&gt;TeXstudioの設定-&gt;コマンド」ではなく「オプション-&gt;TeXstudioの設定-&gt;ビルド」だけでコマンドリストを定義してください。
-</translation>
+設定を変更して、「オプション-&gt;TeXstudioの設定-&gt;コマンド」ではなく「オプション-&gt;TeXstudioの設定-&gt;ビルド」だけでコマンドリストを定義してください。</translation>
     </message>
     <message>
         <location filename="../src/buildmanager.cpp" line="1100"/>
@@ -1167,7 +1166,7 @@ Then you can select a new shortcut by one of the following ways:
     <message>
         <location filename="../src/configdialog.ui" line="1127"/>
         <source>Close Element applies to a fixed list of GUI elements (not all shown here). The first visible element will be closed. With this setting you can exclude some elements from being closed.</source>
-        <translation>「要素を閉じる」はGUI要素（ここではすべては表示されていない）の固定リストに適用される。最初に見える要素が閉じられる。この設定で、閉じることから要素を除外できる。</translation>
+        <translation>「要素を閉じる」はGUI要素（ここではすべては表示されていない）の固定リストに適用されます。最初に見える要素が閉じられます。この設定で、閉じることから要素を除外できます。</translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="1130"/>
@@ -2719,7 +2718,7 @@ Note: Changing this setting will only affect documents that are opened afterward
         <location filename="../src/configdialog.ui" line="4476"/>
         <location filename="../src/configdialog.cpp" line="524"/>
         <source>Internal Terminal</source>
-        <translation>組み込みターミナル</translation>
+        <translation>組み込み端末</translation>
     </message>
     <message>
         <location filename="../src/configdialog.ui" line="4527"/>
@@ -6171,7 +6170,7 @@ Restart from the beginning?</source>
     <message>
         <location filename="../src/qcodeedit/lib/qeditor.cpp" line="678"/>
         <source>Dynamic line wrapping</source>
-        <translation>動的な行のワードラップ</translation>
+        <translation>動的な行の折り返し</translation>
     </message>
     <message>
         <location filename="../src/qcodeedit/lib/qeditor.cpp" line="690"/>
@@ -7215,7 +7214,7 @@ Notes:
         <source>Font size relative to editor font size.
 
 Note: If the size is larger than the line spacing, characters may be clipped.</source>
-        <translation>エディタのフォントサイズにたいするフォントサイズ。
+        <translation>エディタのフォントサイズに対するフォントサイズ。
 
 注：サイズが行間隔より大きい場合、文字が切り取られます。</translation>
     </message>
@@ -8384,7 +8383,7 @@ Do you trust this script?</source>
         <location filename="../src/symbolpanel/symbolwidget.cpp" line="32"/>
         <source>Operators</source>
         <comment>Operator category</comment>
-        <translation>演算子</translation>
+        <translation>演算子記号</translation>
     </message>
     <message>
         <location filename="../src/symbolpanel/symbolwidget.cpp" line="33"/>
@@ -8421,14 +8420,14 @@ Do you trust this script?</source>
         <source>Misc. Math</source>
         <comment>Operator category</comment>
         <translatorcomment>訳がこれで良いのか不明</translatorcomment>
-        <translation>様々な数式記号</translation>
+        <translation>様々な数学記号</translation>
     </message>
     <message>
         <location filename="../src/symbolpanel/symbolwidget.cpp" line="39"/>
         <source>Misc. Text</source>
         <comment>Operator category</comment>
         <translatorcomment>訳がこれで良いのか不明</translatorcomment>
-        <translation>様々なテキスト</translation>
+        <translation>様々なテキスト記号</translation>
     </message>
     <message>
         <location filename="../src/symbolpanel/symbolwidget.cpp" line="40"/>
@@ -9247,7 +9246,7 @@ failed.</source>
     <message>
         <location filename="../src/texstudio.cpp" line="666"/>
         <source>XY Commands</source>
-        <translation>XY コマンド</translation>
+        <translation>XY コマンド(xy-pic)</translation>
     </message>
     <message>
         <location filename="../src/texstudio.cpp" line="793"/>
@@ -10863,7 +10862,7 @@ this other file before you can overwrite it.</source>
     <message>
         <location filename="../src/texstudio.cpp" line="3721"/>
         <source>Join lines before wrapping</source>
-        <translation>ワードラップを行う前に行を結合する</translation>
+        <translation>折り返しを行う前に行を結合する</translation>
     </message>
     <message>
         <location filename="../src/texstudio.cpp" line="3735"/>
@@ -12434,17 +12433,17 @@ htmlファイルは%1ディレクトリにあります。</translation>
     <message>
         <location filename="../src/additionaltranslations.cpp" line="252"/>
         <source>slide with enumerate</source>
-        <translation>enumerate環境のスライドの作成</translation>
+        <translation>enumerate環境を含むスライドの作成</translation>
     </message>
     <message>
         <location filename="../src/additionaltranslations.cpp" line="253"/>
         <source>slide with itemize</source>
-        <translation>itemize環境のスライドの作成</translation>
+        <translation>itemize環境を含むスライドの作成</translation>
     </message>
     <message>
         <location filename="../src/additionaltranslations.cpp" line="254"/>
         <source>slide with graphic</source>
-        <translation>graphic環境のスライドの作成</translation>
+        <translation>graphic環境を含むスライドの作成</translation>
     </message>
     <message>
         <location filename="../src/additionaltranslations.cpp" line="255"/>
